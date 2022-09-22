@@ -10,5 +10,6 @@ form{
 
 input, label {
   margin: auto;
+  padding: 0px
   text-align: center;
 }
