@@ -8,3 +8,7 @@ body {
 form {
   display: inline-block;	
 }
+
+input[type=text]{
+  padding: 10px;
+}
