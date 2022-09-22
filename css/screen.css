@@ -4,13 +4,6 @@ body {
   background: linear-gradient(70deg, rgba(186,100,192,1) 0%, rgba(188,193,202,1) 50%, rgba(255,157,0,1) 100%);
 }
 
-label {
-  text-align: center;
-  margin: auto;
-}
-
 input[type=text]{
-  padding: 3%;
-  border: 5px solid blue;
-  border-radius: 4px;
+  text-align: center;
 }
