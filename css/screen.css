@@ -12,3 +12,7 @@ form {
 input[type=text]{
   padding: 10px;
 }
+
+input[type=submit]:hover {
+  background-color: #FF0000;
+}
