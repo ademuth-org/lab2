@@ -1,4 +1,6 @@
 body {
   font-family: 'Trebuchet MS', sans-serif;
+  background: rgb(186,100,192);
+  background: linear-gradient(70deg, rgba(186,100,192,1) 0%, rgba(188,193,202,1) 50%, rgba(255,157,0,1) 100%);
 }
 
