@@ -5,14 +5,13 @@ body {
 }
 
 form{
-  margin: auto;
   right: 10%;
   left: 10%;
   border: 5px solid blue;
 }
 
 input, label {
+  text-align: center;
   margin: auto;
   padding: 0px;
-  text-align: center;
 }
