@@ -6,5 +6,6 @@ body {
 
 form, label {
   margin: auto;
+  padding: 5px;
   text-align: center;
 }
