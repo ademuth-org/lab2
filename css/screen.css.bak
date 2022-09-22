@@ -5,9 +5,10 @@ body {
 }
 
 form{
+  margin: auto;
 }
 
 input, label {
-  margin: 5%;
+  margin: auto;
   text-align: center;
 }

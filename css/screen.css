@@ -9,6 +9,7 @@ form{
 }
 
 input, label {
-  margin: 5%;
+  margin: auto;
+  padding: 0px
   text-align: center;
 }
