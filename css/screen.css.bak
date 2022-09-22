@@ -7,11 +7,16 @@ body {
 form{
   right: 10%;
   left: 10%;
-  border: 5px solid blue;
 }
 
-input, label {
+label {
   text-align: center;
   margin: auto;
   padding: 0px;
+}
+
+input[type=text]{
+  padding: 3%;
+  border: 5px solid blue;
+  border-radius: 4px;
 }
